@@ -14,4 +14,4 @@ Change the current working directory to the project and use this command to run 
     python3 guardn.py
 
 # Author
-[Noxturnix](https://github.com/Noxturnix) from Noxtian team
+[trhacknon rewrite](https://github.com/trhacknon) from trhacknon team
